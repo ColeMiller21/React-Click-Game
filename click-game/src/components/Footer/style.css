@@ -1,14 +1,10 @@
-.header {
+.footer {
     background-color: #484848;
     color: white;
     height: 75px;
     vertical-align: center;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-
-#logo {
-    font-weight: 700;
-    vertical-align: center;
+    position: fixed;
 }
 
 .center {

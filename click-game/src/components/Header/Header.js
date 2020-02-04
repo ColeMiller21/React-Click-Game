@@ -14,9 +14,6 @@ function Header() {
                 <Col><h3 id="scores" className="text-center center">Score: 0  |  Top Score: 0</h3></Col>
             </Row>
         </ Container>
-
-
-
     );
 }
 
