@@ -4,10 +4,12 @@ import "./style.css";
 
 function Wrapper(props) {
     return (
-        <Container className="img-area">{props.children} </Container>
+        <Container className="img-area">{props.children}</Container>
 
     )
 
 
 
 }
+
+export default Wrapper;

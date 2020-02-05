@@ -1,8 +1,15 @@
 import React from "react";
+import "./style.css";
+
 
 
 function Image(props) {
-    return
+    return (
+        <div className="img-div">
+            <img src={props.image} alt="nfl-logo-images" key={props.key} />
+        </div>
+
+    )
 
 
 }

@@ -5,13 +5,12 @@ import "./style.css"
 
 
 
-function Header() {
+function Header(props) {
     return (
-        <Container fluid className="header position-sticky">
+        <Container fluid className="header fixed-top">
             <Row>
-                <Col ><h3 id="logo" className="text-center center">NFL Click!</h3></Col>
-                <Col><h3 id="headline" className="text-center center">Click an image to begin!</h3></Col>
-                <Col><h3 id="scores" className="text-center center">Score: 0  |  Top Score: 0</h3></Col>
+                <Col ><h3 id="logo" className="text-center text">NFL Click!</h3></Col>
+                <Col><h3 id="scores" className="text-center text">Score: {props.counter} |  Top Score: {props.highScore} </h3></Col>
             </Row>
         </ Container>
     );

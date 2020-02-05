@@ -7,8 +7,12 @@ import "./style.css"
 
 function Footer() {
     return (
-        <Container fluid className="footer fixed-bottom">
-            <h3 className="center text-center">React Click Game</h3>
+        <Container fluid className="footer">
+            <nav className="navbar-fixed-bottom text-center">
+                <div>
+                    <h3 className="center">React Click Game</h3>
+                </div>
+            </nav>
         </ Container>
     );
 }
