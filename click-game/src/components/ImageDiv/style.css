@@ -1,4 +1,19 @@
 .img-div {
+   padding: 20px;
+
+    
+}
+
+#team-image{
     height: 200px;
     width: 200px;
+    border: 5px solid gray;
+    overflow: hidden;
+    transition: transform .3s ease;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+#team-image:hover {
+    transform: scale(1.15)
 }

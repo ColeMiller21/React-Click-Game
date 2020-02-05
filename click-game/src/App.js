@@ -5,7 +5,8 @@ import Banner from "./components/Banner/Banner";
 import Footer from "./components/Footer/Footer";
 import Wrapper from "./components/Wrapper/Wrapper";
 import Image from "./components/ImageDiv/Image";
-import images from "./components/images/images";
+import images from "./images.json"
+
 import './App.css';
 
 
@@ -13,7 +14,7 @@ import './App.css';
 class App extends Component {
 
   state = {
-    images: images,
+    images,
     counter: 0,
     highScore: 0
   }
@@ -34,7 +35,7 @@ class App extends Component {
             {this.state.images.map(image =>
               <Image
                 key={image.key}
-                image={image.images} />
+                image={image.image} />
             )}
           </Wrapper>
           <Footer />
