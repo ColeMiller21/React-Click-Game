@@ -1,7 +1,7 @@
 [
     {
         "key": 1,
-        "image": "https://github.com/ColeMiller21/React-Click-Game/blob/master/click-game/src/components/images/baltimore-ravens.png?raw=true",
+        "image": "https://github.com/ColeMiller21/React-Click-Game/blob/master/src/components/images/baltimore-ravens.png?raw=true",
         "beenClicked": false
     },
     {
@@ -11,22 +11,22 @@
     },
     {
         "key": 3,
-        "image": "https://github.com/ColeMiller21/React-Click-Game/blob/master/click-game/src/components/images/carolina-panthers.png?raw=true",
+        "image": "https://github.com/ColeMiller21/React-Click-Game/blob/master/src/components/images/carolina-panthers.png?raw=true",
         "beenClicked": false
     },
     {
         "key": 4,
-        "image": "https://github.com/ColeMiller21/React-Click-Game/blob/master/click-game/src/components/images/chiefs-logo.jpg?raw=true",
+        "image": "https://github.com/ColeMiller21/React-Click-Game/blob/master/src/components/images/chiefs-logo.jpg?raw=true",
         "beenClicked": false
     },
     {
         "key": 5,
-        "image": "https://github.com/ColeMiller21/React-Click-Game/blob/master/click-game/src/components/images/dallas-cowboys.png?raw=true",
+        "image": "https://github.com/ColeMiller21/React-Click-Game/blob/master/src/components/images/dallas-cowboys.png?raw=true",
         "beenClicked": false
     },
     {
         "key": 6,
-        "image": "https://github.com/ColeMiller21/React-Click-Game/blob/master/click-game/src/components/images/vikings-logo.gif?raw=true",
+        "image": "https://github.com/ColeMiller21/React-Click-Game/blob/master/src/components/images/vikings-logo.gif?raw=true",
         "beenClicked": false
     },
     {
@@ -51,12 +51,12 @@
     },
     {
         "key": 11,
-        "image": "https://github.com/ColeMiller21/React-Click-Game/blob/master/click-game/src/components/images/new-england-patriots.jpg?raw=true",
+        "image": "https://github.com/ColeMiller21/React-Click-Game/blob/master/src/components/images/new-england-patriots.jpg?raw=true",
         "beenClicked": false
     },
     {
         "key": 12,
-        "image": "https://github.com/ColeMiller21/React-Click-Game/blob/master/click-game/src/components/images/new-york-giants.png?raw=true",
+        "image": "https://github.com/ColeMiller21/React-Click-Game/blob/master/src/components/images/new-york-giants.png?raw=true",
         "beenClicked": false
     }
 ]
