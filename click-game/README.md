@@ -1,4 +1,4 @@
-# NFL Click a React made Clicky Game
+# NFL Click! A React made Clicky Game
 
 <div align="left">
     <img src="https://github.com/ColeMiller21/React-Click-Game/blob/master/click-game/src/components/images/ReadMeImage.png?raw=true" width="400px"</img> 
