@@ -1,11 +1,9 @@
 # NFL Click a React made Clicky Game
 
 <div align="left">
-    <img src="" width="400px"</img> 
+    <img src="click-game/src/components/images/ReadMeImage.png" width="400px"</img> 
 </div>
-<div align="left">
-    <img src="images/FriendFinder2.png" width="400px"</img> 
-</div>
+
 
 
 ## Table of Contents
