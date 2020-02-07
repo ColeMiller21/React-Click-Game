@@ -20,7 +20,7 @@ class App extends Component {
 
   playGame = key => {
     // if pickedImages includes the image key ending game emptying out the pickedImages array
-    if (this.state.pickedImages.includes(key) === true) {
+    if (this.state.pickedImages.includes(key) === true || this.state.counter === 12) {
       this.gameOver();
       this.setState({ pickedImages: [] })
     }
@@ -43,8 +43,11 @@ class App extends Component {
     if (this.state.counter > this.state.highScore) {
       this.setState({ highScore: this.state.counter, counter: 0 })
     }
-    // looping over all images and making beenClicked equal to false 
-    this.state.images.forEach(image => image.beenClicked = false)
+    else {
+      // looping over all images and making beenClicked equal to false 
+      this.state.images.forEach(image => image.beenClicked = false)
+      this.setState({ counter: 0 })
+    }
   }
 
 
