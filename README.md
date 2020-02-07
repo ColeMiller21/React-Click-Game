@@ -1,11 +1,9 @@
-# NFL Click a React made Clicky Game
+# NFL Click! A React made Clicky Game
 
 <div align="left">
-    <img src="" width="400px"</img> 
+    <img src="https://github.com/ColeMiller21/React-Click-Game/blob/master/click-game/src/components/images/ReadMeImage.png?raw=true" width="400px"</img> 
 </div>
-<div align="left">
-    <img src="images/FriendFinder2.png" width="400px"</img> 
-</div>
+
 
 
 ## Table of Contents
@@ -18,7 +16,7 @@
 
 ## About The Project
 
-The game is an NFL click game.
+The game is an NFL click game. Click an image without clicking the same one until you get to 12 or beat your high score. 
 
 
 ## Built With
