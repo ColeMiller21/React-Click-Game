@@ -16,7 +16,7 @@
 
 ## About The Project
 
-The game is an NFL click game. Click an image without clicking the same one until you get to 12 or beat your high score. 
+The game is an NFL click game. Click on any team without clicking the same one until you get to 12 or beat your high score. 
 
 
 ## Built With
